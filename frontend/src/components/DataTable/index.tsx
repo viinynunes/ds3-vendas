@@ -60,7 +60,7 @@ const DataTable = () => {
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
-                    </tr>
+                    </tr>   
                 </tbody>
             </table>
         </div>
